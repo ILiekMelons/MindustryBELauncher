@@ -1,5 +1,5 @@
 # MindustryBELauncher
-A program that automatically downloads the latest Mindustry BE version (if necessary) and then runs it.
+A python script that automatically downloads the latest Mindustry BE version (if necessary) and then runs it.
 
 ### Running
 Install Python 3.
