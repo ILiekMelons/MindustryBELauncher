@@ -4,4 +4,4 @@ A python script that automatically downloads the latest Mindustry BE version (if
 ### Running
 Install Python 3.
 
-Download the code as a .zip file, extract it, then run `run.bat` or `run.sh`.
+Download the code as a .zip file, extract it, then run `run.sh`. (`run.bat` currently does not work)
